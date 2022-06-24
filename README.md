@@ -31,8 +31,10 @@ Opening a firebase project and realtime Database:
     
     ".write": true,  
   }
+  
 }
 
 
 Then click on Publish button. 
+
 4.	Now your Realtime Database is ready. The Hostname and the Secret key can be accessed as described above. 
