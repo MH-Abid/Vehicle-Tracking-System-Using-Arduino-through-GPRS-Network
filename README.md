@@ -13,6 +13,7 @@ See our paper or the wiring diagram attached in this reprository.
 
 
 Accessing Firebase Hostname and Secrete Key: 
+
 •	Accessing Host Name:
 1.	From the firebase home page, Go to Console>Select the Project from project list>Real time database. The Hostname is on the top of your real-time data. 
 •	Accessing Secret Key: 
