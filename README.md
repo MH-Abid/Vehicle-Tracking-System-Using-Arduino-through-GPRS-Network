@@ -1,5 +1,5 @@
 # Vehicle-Tracking-System-Using-Arduino-through-GPRS-Network
-User Manua
+User Manual
 
 Edit in code: 
 1.	Give the APN of your used SIM. 
@@ -30,9 +30,7 @@ Opening a firebase project and realtime Database:
     ".read": true,  
     
     ".write": true,  
-    
   }
-  
 }
 
 
