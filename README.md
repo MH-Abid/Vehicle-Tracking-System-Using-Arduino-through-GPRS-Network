@@ -10,6 +10,8 @@ Wiring:
 
 See our paper or the wiring diagram attached in this reprository. 
 
+
+
 Accessing Firebase Hostname and Secrete Key: 
 •	Accessing Host Name:
 1.	From the firebase home page, Go to Console>Select the Project from project list>Real time database. The Hostname is on the top of your real-time data. 
@@ -22,11 +24,17 @@ Opening a firebase project and realtime Database:
 3.	Go to the Rules tab and make the code snippets on the page similar as:  
 
 {
+
   "rules": {
+  
     ".read": true,  
+    
     ".write": true,  
+    
   }
+  
 }
+
 
 Then click on Publish button. 
 4.	Now your Realtime Database is ready. The Hostname and the Secret key can be accessed as described above. 
