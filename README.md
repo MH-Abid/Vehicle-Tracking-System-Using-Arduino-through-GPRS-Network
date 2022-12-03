@@ -1,6 +1,10 @@
 # Vehicle-Tracking-System-Using-Arduino-through-GPRS-Network
 User Manual
 
+Our Paper:  https://doi.org/10.53808/KUS.2022.ICSTEM4IR.0234-se 
+
+PLEASE SITE THIS PAPER IF YOU USE OUR CODE
+
 Edit in code: 
 1.	Give the APN of your used SIM. 
 2.	Give your firebase host. 
